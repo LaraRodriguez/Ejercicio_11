@@ -6,8 +6,15 @@ body{
     
 }
 #imagen{
-    text-align: right;
+    
 }
 #parrafo1{
     text-align: justify;;
+}
+#tabla{
+    text-align: center;
+}
+#titulotabla{
+    background-color: orange;
+    font-weight: 800;
 }

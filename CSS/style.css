@@ -1,0 +1,44 @@
+body{
+    background-image: url("../Multimedia/Imagenes/istockphoto-137438213-1024x1024.jpg");
+    background-size: cover;
+
+}
+
+
+
+#Titulo{
+    text-align: center;
+    text-decoration-line: underline;
+    
+}
+img{
+    display: block;
+    margin: auto;
+}
+#parrafo1{
+    text-align: justify;
+}
+#tabla{
+    text-align: center;
+    
+}
+#titulotabla{
+    background-color: orange;
+    font-weight: 800;
+    color:black;
+}
+th{
+    color:rgb(231, 144, 44);
+}
+#nombregrupo{
+    color: red;
+    font-weight: 900;
+}
+#parrafo2{
+    font-weight: 700;
+}
+#parrafo3{
+    font-weight: 700;
+}
+
+
